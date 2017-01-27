@@ -1,0 +1,11 @@
+{
+  "name": "js-riot-page",
+  "version": "1.0.0",
+  "description": "teste com riot.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alanstos",
+  "license": "ISC"
+}
